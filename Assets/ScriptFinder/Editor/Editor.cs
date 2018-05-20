@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 using ScriptFinder.Utilities;
+using System;
 
 namespace ScriptFinder
 {
