@@ -84,7 +84,7 @@ namespace ScriptFinder
                 public static readonly Rect BackgroundResultsInner  = new Rect(22.0f, 227.0f, 756.0f, 151.0f);
 
                 public static readonly Rect ButtonFindMatches = new Rect(20.0f, 160.0f, 760.0f, 20.0f);
-                public static readonly Rect ButtonMatch       = new Rect(0.0f, 0.0f, 741.0f, 30.0f);
+                public static readonly Rect ButtonMatch       = new Rect(0.0f, 0.0f, 756.0f, 30.0f);
 
                 public static readonly Rect FieldTargetObject  = new Rect(20.0f, 80.0f, 762.0f, 17.0f);
                 public static readonly Rect FieldRecurseToggle = new Rect(18.0f, 135.0f, 20.0f, 20.0f);
